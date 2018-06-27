@@ -1,4 +1,4 @@
-# GoNativeExemploM3
+# Aplicação em React Native usando Redux e Redux Saga
 ``` Exemplo do módulo 3 do curso de React Native da RocketSeat ministrado pelo github.com/diego3g ```
 
 Projeto feito usando:
